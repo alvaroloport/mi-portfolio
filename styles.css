@@ -95,4 +95,11 @@ section {
 margin: 1rem;
 padding: 1.5rem;
 }
+table, th, td{
+text-align: center;
+table-layout: fixed;
+width: 100%;
+border-collapse: collapse;
+border: 3px solid black;
+}
 }
